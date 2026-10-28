@@ -1,0 +1,5 @@
+{
+  "class": "benign",
+  "model_probability_malignant": 0.0003645681159627862,
+  "use": "Educational dataset demonstration; not a clinical diagnosis."
+}
